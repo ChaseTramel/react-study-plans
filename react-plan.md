@@ -2,9 +2,9 @@
 
 ## Introduction
 
-This study plan focuses on learning React and related concepts. Each module starts with explanations of the importance of each topic, followed by learning objectives. Then, sources like guides, books, and tutorials are provided to support learning. Next, practice projects are included for real-world application. Finally, for each section the plan, questions are included that might be asked in an interview to demonstrate one’s understanding of each topic.
+This study plan focuses on learning React and related concepts. Each module starts with explanations of the importance of each topic, followed by learning objectives. Then, sources like guides, books, and tutorials are provided to support learning. Finally, for each section the plan, questions are included that might be asked in an interview to demonstrate one’s understanding of each topic.
 
-The practice exercises involve concurrently building four React applications oriented around my interests and skills, listed in My Projects for Learning React. Students should develop their own projects integrating their hobbies and pre-existing knowledge.
+The practice exercises involve concurrently building four React applications oriented around my interests and skills, listed in projects-plan.md. Students should develop their own projects integrating their hobbies and pre-existing knowledge.
 
 By following this study plan, learners can develop the necessary knowledge and skills to start building interactive user interfaces using React and build a strong foundation for learning advanced topics in React development.
 
