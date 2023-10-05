@@ -1,2 +1,3 @@
-# React Study Plans
-A series of study plans to prepare anyone for a React developer job. Includes [React itself](https://github.com/ChaseTramel/react-study-plans/blob/main/react-plan.md), [soft skills](https://github.com/ChaseTramel/react-study-plans/blob/main/soft-skills.md), and [interview prep](https://github.com/ChaseTramel/react-study-plans/blob/main/interview-prep.md). Feel free to make a pull request or email me at [chasetramel@hey.com](mailto:chasetramel@hey.com) if you have any resources to add.
+Welcome to my comprehensive study plans aimed at preparing anyone for a successful career as a React developer. This guide covers everything from [mastering React](https://github.com/ChaseTramel/react-study-plans/blob/main/react-plan.md) itself to [honing soft skills](https://github.com/ChaseTramel/react-study-plans/blob/main/soft-skills.md) and [acing interviews](https://github.com/ChaseTramel/react-study-plans/blob/main/interview-prep.md). If you have additional resources to contribute, feel free to make a pull request or email me at [chasetramel@hey.com](mailto:chasetramel@hey.com). 
+
+Let's embark on this journey to React excellence together! 🦌✨
