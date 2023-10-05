@@ -10,6 +10,8 @@ This plan was created with [NeetCode's roadmap](https://neetcode.io/roadmap) and
 
 I hope it's helpful.
 
+---
+
 ## Interview Process
 
 ### Importance
@@ -20,6 +22,8 @@ Understanding the interview process at major tech companies is crucial because i
 
 [Cracking the Coding Interview](https://www.google.com/books/edition/Cracking_the_Coding_Interview/jD8iswEACAAJ?hl=en), Introduction Parts I - V, VII & VII 
 
+---
+
 ## Algorithm Analysis
 
 ### Importance
@@ -27,6 +31,8 @@ Understanding the interview process at major tech companies is crucial because i
 Understanding algorithm analysis is essential for interview preparation as it demonstrates a candidate's ability to analyze and optimize algorithms, a skill extensively evaluated in technical interviews. In everyday software development, knowledge of algorithm analysis is critical for designing efficient algorithms and data structures, ensuring that software systems can scale and perform optimally as data and user loads increase.
 
 ### Resources
+
+[What is Big O Notation Explained: Space and Time Complexity from freecodecamp](https://www.freecodecamp.org/news/big-o-notation-why-it-matters-and-why-it-doesnt-1674cfa8a23c/)
 
 [Cracking the Coding Interview](https://www.google.com/books/edition/Cracking_the_Coding_Interview/jD8iswEACAAJ?hl=en), Introduction Part VI
 
@@ -37,6 +43,8 @@ Understanding algorithm analysis is essential for interview preparation as it de
 - Time complexity is a critical factor when developing web applications. Can you explain what time complexity is and why it's important in algorithm design? When would you choose a more efficient algorithm over a less efficient one for a specific task in your web development projects? Please provide an example scenario where you optimized code for better time complexity.
 - Big O notation is commonly used to describe the performance of algorithms. How do you use Big O notation to analyze and compare the efficiency of different algorithms or code snippets? Can you share an example of a situation where you identified a performance bottleneck in a web application and successfully improved it through algorithmic optimizations?
 - Web development often involves working with various data structures and algorithms to manipulate and process data efficiently. Can you discuss the role of data structures and algorithm selection in front-end development? How do you decide which data structure or algorithm is most suitable for a specific task, and how does this impact the user experience?
+
+---
 
 ## Arrays & Hashing
 
@@ -63,6 +71,8 @@ Arrays are fundamental data structures used extensively in algorithms, and hashi
 9. [First Missing Positive](https://leetcode.com/problems/first-missing-positive/)
 10. [Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring/)
 
+---
+
 ## Two Pointers
 
 ### Importance
@@ -85,6 +95,8 @@ Studying two pointers is crucial for interview preparation as it equips candidat
 8. [Sort Colors](https://leetcode.com/problems/sort-colors/)
 9. [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/)
 10. [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/)
+
+---
 
 ## Stacks & Queues
 
@@ -111,6 +123,8 @@ Studying stacks and queues is vital for interview preparation as they form the b
 9. [Number of Islands](https://leetcode.com/problems/number-of-islands/)
 10. [Design Snake Game](https://leetcode.com/problems/design-snake-game/)
 
+---
+
 ## Binary Search
 
 ### Importance
@@ -136,6 +150,8 @@ Studying binary search is crucial for interview preparation because it represent
 9. [Kth Smallest Element in a Sorted Matrix](https://leetcode.com/problems/kth-smallest-element-in-a-sorted-matrix/)
 10. [Arranging Coins](https://leetcode.com/problems/arranging-coins/)
 
+---
+
 ## Sliding Windows
 
 ### Importance
@@ -158,6 +174,8 @@ Studying sliding windows is essential for interview preparation as it equips can
 8. [Substring with Concatenation of All Words](https://leetcode.com/problems/substring-with-concatenation-of-all-words/)
 9. [Permutation in String](https://leetcode.com/problems/permutation-in-string/)
 10. [Consecutive Characters](https://leetcode.com/problems/consecutive-characters/)
+
+---
 
 ## Linked Lists
 
@@ -184,6 +202,8 @@ Studying linked lists is vital for interview preparation as they serve as a foun
 9. [Copy List with Random Pointer](https://leetcode.com/problems/copy-list-with-random-pointer/)
 10. [Intersection of Two Linked Lists](https://leetcode.com/problems/intersection-of-two-linked-lists/)
 
+---
+
 ## Trees
 
 ### Importance
@@ -208,6 +228,8 @@ Studying trees is essential for interview preparation as they form the basis for
 8. [Construct Binary Tree from Preorder and Inorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/)
 9. [Binary Tree Right Side View](https://leetcode.com/problems/binary-tree-right-side-view/)
 10. [Binary Tree Maximum Path Sum](https://leetcode.com/problems/binary-tree-maximum-path-sum/)
+
+---
 
 ## Tries
 
@@ -234,6 +256,8 @@ Studying tries is crucial for interview preparation as they introduce a speciali
 9. [Implement Magic Dictionary](https://leetcode.com/problems/implement-magic-dictionary/)
 10. [Stream of Characters](https://leetcode.com/problems/stream-of-characters/)
 
+---
+
 ## Backtracking
 
 ### Importance
@@ -257,6 +281,8 @@ Studying backtracking is essential for interview preparation because it equips c
 9. [Subsets](https://leetcode.com/problems/subsets/)
 10. [Combinations](https://leetcode.com/problems/combinations/)
 
+---
+
 ## Heap / Priority Queues
 
 ### Importance
@@ -279,6 +305,8 @@ Studying heap and priority queues is crucial for interview preparation because t
 8. [Kth Smallest Element in a Sorted Matrix](https://leetcode.com/problems/kth-smallest-element-in-a-sorted-matrix/)
 9. [Sliding Window Median](https://leetcode.com/problems/sliding-window-median/)
 10. [Task Scheduler](https://leetcode.com/problems/task-scheduler/)
+
+---
 
 ## Graphs
 
@@ -305,6 +333,8 @@ Studying graphs is essential for interview preparation as they represent a funda
 9. [Alien Dictionary](https://leetcode.com/problems/alien-dictionary/)
 10. [Redundant Connection II](https://leetcode.com/problems/redundant-connection-ii/)
 
+---
+
 ## One-Dimensional Dynamic Programming
 
 ### Importance
@@ -330,6 +360,8 @@ Studying one-dimensional dynamic programming is crucial for interview preparatio
 9. [Decode Ways](https://leetcode.com/problems/decode-ways/)
 10. [Arithmetic Slices](https://leetcode.com/problems/arithmetic-slices/)
 
+---
+
 ## Intervals
 
 ### Importance
@@ -353,6 +385,8 @@ Studying intervals is essential for interview preparation as it enables candidat
 9. [Remove Covered Intervals](https://leetcode.com/problems/remove-covered-intervals/)
 10. [Data Stream as Disjoint Intervals](https://leetcode.com/problems/data-stream-as-disjoint-intervals/)
 
+---
+
 ## Greedy Algorithms
 
 ### Importance
@@ -375,6 +409,8 @@ Studying greedy algorithms is crucial for interview preparation as it demonstrat
 8. [Best Time to Buy and Sell Stock II](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/)
 9. [Queue Reconstruction by Height](https://leetcode.com/problems/queue-reconstruction-by-height/)
 10. [Jump Game II](https://leetcode.com/problems/jump-game-ii/)
+
+---
 
 ## Advanced Graphs
 
@@ -401,6 +437,8 @@ Studying advanced graph algorithms is essential for interview preparation as it 
 9. [Smallest String With Swaps](https://leetcode.com/problems/smallest-string-with-swaps/)
 10. [Network Delay Time](https://leetcode.com/problems/network-delay-time/)
 
+---
+
 ## Two-Dimensional Dynamic Programming
 
 ### Importance
@@ -426,6 +464,8 @@ Studying two-dimensional dynamic programming is essential for interview preparat
 9. [Distinct Subsequences](https://leetcode.com/problems/distinct-subsequences/)
 10. [Maximum Score Words Formed by Letters](https://leetcode.com/problems/maximum-score-words-formed-by-letters/)
 
+---
+
 ## Bit Manipulation
 
 ### Importance
@@ -448,6 +488,8 @@ Studying bit manipulation is essential for interview preparation as it demonstra
 8. [Hamming Distance](https://leetcode.com/problems/hamming-distance/)
 9. [Maximum XOR of Two Numbers in an Array](https://leetcode.com/problems/maximum-xor-of-two-numbers-in-an-array/)
 10. [Single Number III](https://leetcode.com/problems/single-number-iii/)
+
+---
 
 ## Math & Geometry
 
