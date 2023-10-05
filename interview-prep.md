@@ -2,11 +2,13 @@
 
 ## Introduction
 
-This study plan is designed to help you master software interview skills in an effective way. It covers a wide range of topics and provides valuable resources to help you prepare for technical interviews at major tech companies.
+This study plan is designed to help you master software interview skills in an effective way. It covers a wide range of topics and provides resources to help you prepare for technical interviews at major tech companies.
 
-The plan includes dedicated sections on the interview process, algorithm analysis, arrays and hashing, two pointers, stacks and queues, binary search, sliding windows, linked lists, trees, tries, backtracking, and more. Each section gives you an overview of the topic's importance, recommends relevant resources for further study, and provides a list of practice problems to reinforce your understanding.
+The plan includes  sections on the interview process, algorithm analysis, arrays and hashing, two pointers, stacks and queues, binary search, sliding windows, linked lists, trees, tries, backtracking, and more. Each section gives an overview of the topic's importance, recommends resources for study, and provides a list of LeetCode problems to reinforce your understanding. I find it important to include an explaination of why the topic is important, both for interviews and for 'everyday' software engineering.
 
-By following this study plan, you will not only enhance your problem-solving abilities but also increase your chances of success in software interviews. Good luck!
+This plan was created with [NeetCode's roadmap](https://neetcode.io/roadmap) and the assistance of ChatGPT. I created this plan to study for both interviews and competitive programming.
+
+I hope it's helpful.
 
 ## Interview Process
 
