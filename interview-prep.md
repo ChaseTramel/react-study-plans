@@ -32,6 +32,8 @@ Understanding algorithm analysis is essential for interview preparation as it de
 
 ### Resources
 
+[Big-O Notation - For Coding Interviews](https://youtu.be/BgLTDT03QtU?list=PLkHPoiOiLSh6eM_WfsVmYWBo7EXNp2neE)
+
 [What is Big O Notation Explained: Space and Time Complexity from freecodecamp](https://www.freecodecamp.org/news/big-o-notation-why-it-matters-and-why-it-doesnt-1674cfa8a23c/)
 
 [Cracking the Coding Interview](https://www.google.com/books/edition/Cracking_the_Coding_Interview/jD8iswEACAAJ?hl=en), Introduction Part VI
@@ -53,6 +55,8 @@ Understanding algorithm analysis is essential for interview preparation as it de
 Arrays are fundamental data structures used extensively in algorithms, and hashing is a key technique for efficient data retrieval and storage, both of which are essential skills for solving real-world problems efficiently and effectively in software development.
 
 ### Resources
+
+[Data Structures Easy to Advanced Course](https://youtu.be/RBSGKlAvoiM?list=PLkHPoiOiLSh6eM_WfsVmYWBo7EXNp2neE)
 
 [Cracking the Coding Interview](https://www.google.com/books/edition/Cracking_the_Coding_Interview/jD8iswEACAAJ?hl=en), Chapter 1
 
@@ -266,6 +270,8 @@ Studying backtracking is essential for interview preparation because it equips c
 
 ### Resources
 
+[Solve Coding Interview Backtracking Problems - Crash Course](https://www.youtube.com/watch?v=A80YzvNwqXA&list=PLkHPoiOiLSh6eM_WfsVmYWBo7EXNp2neE&index=13)
+
 [The Algorithm Design Manual](https://www.google.com/books/edition/The_Algorithm_Design_Manual/S0QBEAAAQBAJ), Chapter 7
 
 ### Practice
@@ -316,6 +322,8 @@ Studying graphs is essential for interview preparation as they represent a funda
 
 ### Resources
 
+[Algorithms Course - Graph Theory Tutorial from a Google Engineer](https://youtu.be/09_LlHjoEiY?list=PLkHPoiOiLSh6eM_WfsVmYWBo7EXNp2neE)
+
 [Cracking the Coding Interview](https://www.google.com/books/edition/Cracking_the_Coding_Interview/jD8iswEACAAJ?hl=en), Chapter 4
 
 [The Algorithm Design Manual](https://www.google.com/books/edition/The_Algorithm_Design_Manual/S0QBEAAAQBAJ), Chapter 5
@@ -342,6 +350,8 @@ Studying graphs is essential for interview preparation as they represent a funda
 Studying one-dimensional dynamic programming is crucial for interview preparation as it equips candidates with a powerful problem-solving technique that can be applied to a wide range of optimization and sequence-related problems, demonstrating their ability to devise efficient solutions. In everyday software development, understanding one-dimensional dynamic programming can lead to more efficient algorithms for tasks such as sequence alignment, resource allocation, and optimizing algorithms, making it a valuable skill for improving the performance of software systems.
 
 ### Resources
+
+[Dynamic Programming - Learn to Solve Algorithmic Problems & Coding Challenges](https://youtu.be/oBt53YbR9Kk?list=PLkHPoiOiLSh6eM_WfsVmYWBo7EXNp2neE)
 
 [Cracking the Coding Interview](https://www.google.com/books/edition/Cracking_the_Coding_Interview/jD8iswEACAAJ?hl=en) , Chapter 8
 
@@ -394,6 +404,8 @@ Studying intervals is essential for interview preparation as it enables candidat
 Studying greedy algorithms is crucial for interview preparation as it demonstrates a candidate's ability to make optimal choices at each step, a fundamental problem-solving skill often assessed in technical interviews. In everyday software development, understanding greedy algorithms can lead to efficient solutions for tasks like scheduling, optimization, and resource allocation, enhancing the performance and responsiveness of software systems.
 
 ### Resources
+
+[Greedy Algorithms Tutorial – Solve Coding Challenges](https://youtu.be/bC7o8P_Ste4?list=PLkHPoiOiLSh6eM_WfsVmYWBo7EXNp2neE)
 
 [The Algorithm Design Manual](https://www.google.com/books/edition/The_Algorithm_Design_Manual/S0QBEAAAQBAJ), Chapter 8
 
